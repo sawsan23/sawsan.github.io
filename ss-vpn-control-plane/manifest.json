@@ -1,10 +1,10 @@
 {
   "payload": {
     "schemaVersion": 1,
-    "manifestVersion": 169,
+    "manifestVersion": 170,
     "keyId": "manifest-key-2026-01",
-    "issuedAt": 1788846369,
-    "expiresAt": 1789451169,
+    "issuedAt": 1788847966,
+    "expiresAt": 1789452766,
     "app": {
       "minVersionCode": 4000743,
       "currentVersionCode": 4000743
@@ -29,6 +29,6 @@
       "cacheTtlSeconds": 3600
     }
   },
-  "signature": "D_2JnNmEW739P6TNJpEZcESmN2HDtHPcy8x3N6AmTurXgu3GPKLoZohA4oXeCXiJNvNUlVq66YNK0khiD7diCg",
+  "signature": "UP8gknI5m4TCReWDsxEdR-_8km7IguN8yRrSZAuhznNerdDi1r5buy_N8xvhOPULFeo9f-lgJhaB-TB7pTIfAw",
   "algorithm": "Ed25519"
 }
